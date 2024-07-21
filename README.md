@@ -1,10 +1,10 @@
-Skilled Ionic/Angular Developer & Graphic Designer 📱💼
+Frontend Developer | Graphic Designer 📱💼
 
 Greetings✋,
 
-I am Ali Haider Khyraj, a proficient Mobile and Front-end (Ionic/Angular) & Back-end Developer with an exceptional track record.
+I am Ali Haider Khyraj, a proficient Mobile and Front-end Developer with an exceptional track record.
 
-With over 3 years of hands-on expertise in the Mobile and Web development realm, I have successfully navigated through a diverse array of cutting-edge technologies. My skills encompass:
+With over 3+ years of hands-on expertise in the Mobile and Web development realm, I have successfully navigated through a diverse array of cutting-edge technologies. My skills encompass:
 
 🔹 Ionic Framework 💯
 🔹 Seamless Transition from Figma / Adobe XD to Ionic / Angular Development / Upgrade 💯
@@ -12,6 +12,7 @@ With over 3 years of hands-on expertise in the Mobile and Web development realm,
 🔹 Electron
 🔹 WordPress Performance Optimization 💯
 🔹 Shopify
+🔹 React
 🔹 Proficiency in PHP / Laravel / WordPress / Yii2 💯
 🔹 Mastery of HTML / CSS / Bootstrap 💯
 🔹 Proficient in Push Notifications
